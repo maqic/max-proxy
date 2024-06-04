@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "name": "max-proxy",
+  "version": "1.0.0",
+  "description": "http proxy for max+",
+  "main": "proxy.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node proxy.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
